@@ -1,5 +1,6 @@
 # FAKE-NFT-SWAP-DRAINER-APPROVEALL-
 ### This drainer will steal all NFT's in the wallet masking it by swap, exact clone of nfttrader.io.
+Educational purposes only, we do not take response for any actions made with our tools.
 Preview: https://streamable.com/pfv8nj
 **How does it work?**
 1. Victim connects the wallet
